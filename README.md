@@ -1,1 +1,1 @@
-this is infinidims first git project!
+this is infinidoms first git project!
